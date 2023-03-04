@@ -15,4 +15,4 @@ If you would like to support us, you can do any of the following:
 
 ---
 
-<sub>🤫 Psst! Check out our <a href="https://docs.tridentbot.xyz">documentation</a> for assistant regarding Trident.</sub>
+<sub>🤫 Psst! Check out our <a href="https://docs.tridentbot.xyz">documentation</a> for assistance regarding Trident.</sub>
